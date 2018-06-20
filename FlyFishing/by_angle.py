@@ -45,6 +45,8 @@ def plot_points_and_function(fun, points):
     x_int = get_x_int(fun)
     x_vals, y_vals = get_coordinate_values(points)
     plt.plot(x_vals, y_vals, 'r-')
+    plt.plot(x_vals, y_vals, 'ro')
+    plt.axis('scaled')
     x = np.linspace(0, x_int, 100)
     plt.plot(x, fun(x), 'b-')
     plt.show()
@@ -118,14 +120,14 @@ for x in x_vals:
     points.append(Point(x, fun(x)))
 
 # print('before')
-# print(print_points_set(points))
+print(print_points_set(points))
 # first get the average angle
 
 iterations = 0
 while get_average_difference_in_angle(points) > 5:
     iterations += 1
     avg_ang = get_average_angle(points)
-    # plot_points_and_function(fun, points)
+    plot_points_and_function(fun, points)
     print('avg ang: ', avg_ang)
 
     # run algorithm on each position iteratively till a tolerance is reached
@@ -137,6 +139,8 @@ while get_average_difference_in_angle(points) > 5:
         # print(points[i-1].x)
         # print(' and ')
         # print(points[i+1].x)
+
+        avg_ang = get_average_angle(points)
 
         possible_x_vals = np.linspace(points[i-1].x, points[i+1].x, 50, endpoint=False)
         possible_x_vals = np.delete(possible_x_vals, 0)
