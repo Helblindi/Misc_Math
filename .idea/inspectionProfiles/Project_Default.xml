@@ -23,6 +23,20 @@
           <option value="FlyFishing.point_test.Point" />
           <option value="FlyFishing.by_angle.Point" />
           <option value="FlyFishing.by_angle.point" />
+          <option value="FlyFishing.by_angle.useful_functions" />
+          <option value="FlyFishing.by_angle.get_x_int" />
+          <option value="FlyFishing.by_angle.get_average_difference_in_angle" />
+          <option value="FlyFishing.by_angle.get_average_angle" />
+          <option value="FlyFishing.by_angle.get_angle" />
+          <option value="FlyFishing.worst_angle_iteration.point" />
+          <option value="FlyFishing.worst_angle_iteration.useful_functions" />
+          <option value="FlyFishing.worst_angle_iteration.get_x_int" />
+          <option value="FlyFishing.worst_angle_iteration.Point" />
+          <option value="FlyFishing.worst_angle_iteration.get_average_difference_in_angle" />
+          <option value="FlyFishing.worst_angle_iteration.get_average_angle" />
+          <option value="FlyFishing.worst_angle_iteration.get_angle" />
+          <option value="FlyFishing.worst_angle_iteration.print_points_set" />
+          <option value="FlyFishing.worst_angle_iteration.plot_points_and_function" />
         </list>
       </option>
     </inspection_tool>
