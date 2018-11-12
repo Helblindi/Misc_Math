@@ -38,6 +38,8 @@
           <option value="FlyFishing.worst_angle_iteration.print_points_set" />
           <option value="FlyFishing.worst_angle_iteration.plot_points_and_function" />
           <option value="Combinatorics.at_least_one.deck_of_cards" />
+          <option value="Combinatorics.at_least_one.*" />
+          <option value="Combinatorics.test.scipy" />
         </list>
       </option>
     </inspection_tool>

@@ -69,9 +69,12 @@ class Deck:
         """
         return [self.draw() for i in range(0, size)]
 
+    def get_size(self):
+        return len(self.contents)
+
 
 """
-Useful functions that do not belong in either the Card class of the Deck class.
+Useful functions that does not belong in either the Card class of the Deck class.
 """
 def show_hand(hand):
     size = len(hand)
