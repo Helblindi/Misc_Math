@@ -21,6 +21,8 @@ def TF_comp(J_i, f, h):
 
 
 def AF_comp(Mi, I, Ji, a, b, g, TF, h):
+    # Begin by computing A
+    # Modify TF based on the boundary data
     pass
 
 
