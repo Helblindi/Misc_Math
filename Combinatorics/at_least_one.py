@@ -62,8 +62,8 @@ def play_round(r, v):
     # main loop of the round
     while deck.get_size() >= r:
 
-        # First calculate the probability of winning the given hand so that we can get an
-        # average probability of winning each hand.
+        # e probabiFirst calculate the probability of winning the given hand so that we can get an
+        # averaglity of winning each hand.
         probability_of_winning_hand = calc_probability_of_winning_hand(deck, winning_set, r)
         # print('prob of winning hand: ', probability_of_winning_hand)
         prob += probability_of_winning_hand
@@ -74,6 +74,7 @@ def play_round(r, v):
         for card in hand:
             if card.rank in winning_set:
                 win_count += 1
+                print('rank: ', card.rank)
                 break
 
     # if we won the round, return 1, else return 0
@@ -88,7 +89,7 @@ def main():
     # 'v' denotes the number of distinct winning card values. 1 <= v <= 13
     # 'num_rounds' is the predefined number of rounds our game will consist of
     r = 2  # 1 <= r <= 52
-    v = 2  # 1 <= v <= 13
+    v = 5  # 1 <= v <= 13
     num_rounds = 10
 
     round_win_count = 0
