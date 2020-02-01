@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/GradSchool/fast_fourier_transform.py" line="15" mnemonic="1" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cd3d4245-c766-4e9b-8d12-71c0a0313c84" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/madis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Combinatorics/dm1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Combinatorics/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Number_Theory/Pells_equation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Number_Theory/num_forms_jordan_canonical.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Misc_Math.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Misc_Math.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GradSchool/fast_fourier_transform.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Combinatorics/at_least_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/Combinatorics/at_least_one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Combinatorics/deck_of_cards.py" beforeDir="false" afterPath="$PROJECT_DIR$/Combinatorics/deck_of_cards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Combinatorics/dm1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Combinatorics/dm1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,10 +18,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="at_least_one.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="at_least_one.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Combinatorics/at_least_one.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
+            <state relative-caret-position="1958">
               <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
               <folding>
                 <element signature="e#32#59#0" expanded="true" />
@@ -35,16 +30,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Combinatorics/test.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="dm1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Combinatorics/dm1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fast_fourier_transform.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GradSchool/fast_fourier_transform.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="deck_of_cards.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Combinatorics/deck_of_cards.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1694">
-              <caret line="77" column="3" lean-forward="true" selection-start-line="77" selection-start-column="3" selection-end-line="77" selection-end-column="3" />
+              <caret line="77" column="3" selection-start-line="77" selection-start-column="3" selection-end-line="77" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -85,14 +99,17 @@
         <option value="$PROJECT_DIR$/Combinatorics/deck_of_cards.py" />
         <option value="$PROJECT_DIR$/Combinatorics/test.py" />
         <option value="$PROJECT_DIR$/Combinatorics/at_least_one.py" />
+        <option value="$PROJECT_DIR$/Combinatorics/dm1.py" />
+        <option value="$PROJECT_DIR$/GradSchool/fast_fourier_transform.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectId" id="1XE5o97aNphlBymM1i2VHmsAzV8" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -108,7 +125,13 @@
             <path>
               <item name="Misc_Math" type="b2602c69:ProjectViewProjectNode" />
               <item name="Misc_Math" type="462c0819:PsiDirectoryNode" />
-              <item name="Combinatorics" type="462c0819:PsiDirectoryNode" />
+              <item name="GradSchool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Misc_Math" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Misc_Math" type="462c0819:PsiDirectoryNode" />
+              <item name="GradSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="Output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,25 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.at_least_one">
-    <configuration name="Prime_Factorization" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Misc_Math" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Number_Theory" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Number_Theory/Prime_Factorization.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.fast_fourier_transform">
     <configuration name="at_least_one" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Misc_Math" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,6 +174,51 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dm1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Misc_Math" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Combinatorics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Combinatorics/dm1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fast_fourier_transform" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Misc_Math" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GradSchool" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GradSchool/fast_fourier_transform.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="num_forms_jordan_canonical" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Misc_Math" />
@@ -187,6 +237,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Misc_Math" />
@@ -205,39 +258,24 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Misc_Math" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Combinatorics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Program Files\PyCharm Projects\Misc_Math\Combinatorics\dm1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Prime_Factorization" />
       <item itemvalue="Python.at_least_one" />
-      <item itemvalue="Python.test" />
+      <item itemvalue="Python.dm1" />
+      <item itemvalue="Python.fast_fourier_transform" />
       <item itemvalue="Python.num_forms_jordan_canonical" />
       <item itemvalue="Python.test (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fast_fourier_transform" />
+        <item itemvalue="Python.dm1" />
         <item itemvalue="Python.at_least_one" />
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.num_forms_jordan_canonical" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.Prime_Factorization" />
       </list>
     </recent_temporary>
   </component>
@@ -257,14 +295,14 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.37820512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12592202" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32897604" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31045753" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28540304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2777778" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2788671" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -281,14 +319,17 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Combinatorics/deck_of_cards.py">
+    <entry file="file://$PROJECT_DIR$/GradSchool/fast_fourier_transform.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="78" column="20" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
+        <state relative-caret-position="484">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -611,26 +652,36 @@
     <entry file="file://$PROJECT_DIR$/Combinatorics/deck_of_cards.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1694">
-          <caret line="77" column="3" lean-forward="true" selection-start-line="77" selection-start-column="3" selection-end-line="77" selection-end-column="3" />
+          <caret line="77" column="3" selection-start-line="77" selection-start-column="3" selection-end-line="77" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Combinatorics/at_least_one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1958">
+          <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+          <folding>
+            <element signature="e#32#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Combinatorics/dm1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="616">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Combinatorics/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Combinatorics/at_least_one.py">
+    <entry file="file://$PROJECT_DIR$/GradSchool/fast_fourier_transform.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+        <state relative-caret-position="528">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
           <folding>
-            <element signature="e#32#59#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
