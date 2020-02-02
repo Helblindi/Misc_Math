@@ -1,5 +1,6 @@
 import numpy as np
 from Numerical_Analysis.M610.HW2.INDB import set_nodes
+from scipy.sparse import bsr_matrix
 
 
 def TF_comp(J_i, f, h):
@@ -20,10 +21,18 @@ def TF_comp(J_i, f, h):
     return TF
 
 
-def AF_comp(Mi, I, Ji, a, b, g, TF, h):
+def AF_comp(M_i, I, J_i, a, b, g, TF, h):
     # Begin by computing A
+    A = bsr_matrix((M_i, M_i))
+    print("testing:")
+    print(A.toarray())
+    vals = np.array([])
+    m_indices = np.array([])
+    m_indices = np.array([])
+    # Iterate over J_i to find diagonal entries for A
+    for i in range(M_i):
+        pass
     # Modify TF based on the boundary data
-    pass
 
 
 def f(x_1, x_2):
@@ -40,6 +49,12 @@ def main():
     M_i = len(J_i)
     h = 1 / N
     TF = TF_comp(J_i, f, h)
+
+    # placeholders
+    a = 0
+    b = 0
+    g = 0
+    AF_comp(M_i, I, J_i, a, b, g, TF, h)
 
 
 # While not required, it is considered good practice to have
