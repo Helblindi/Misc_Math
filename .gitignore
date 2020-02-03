@@ -1,6 +1,7 @@
 # command to remove files that are already tracked
 # git rm --cached "filename"
 
+.idea/Misc_Math.iml
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
