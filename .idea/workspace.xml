@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd3d4245-c766-4e9b-8d12-71c0a0313c84" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Combinatorics/Pascals_Triangle_Fun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Number_Theory/DM2_RSA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numerical_Analysis/M610/HW2/INDB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numerical_Analysis/M610/HW2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Misc_Math.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Misc_Math.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Combinatorics/at_least_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/Combinatorics/at_least_one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Combinatorics/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Combinatorics/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="cd3d4245-c766-4e9b-8d12-71c0a0313c84" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Numerical_Analysis/M610/HW2/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="350">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -89,9 +79,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1285" />
-    <option name="y" value="51" />
+    <option name="y" value="50" />
     <option name="width" value="975" />
-    <option name="height" value="1048" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -260,10 +250,10 @@
     </configuration>
     <list>
       <item itemvalue="Python.DM2_RSA" />
-      <item itemvalue="Python.INDB" />
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.INDB (1)" />
+      <item itemvalue="Python.INDB" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
@@ -426,8 +416,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Numerical_Analysis/M610/HW2/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="350">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
