@@ -1,4 +1,5 @@
 import math
+import numpy as np
 
 def is_prime(n):
     for i in range(2, int(n**0.5) + 1):
@@ -66,4 +67,39 @@ def FJY():
 
     pass
 
-FJY()
+def p1(x, y):
+    if np.abs(x) < 20 and np.abs(y) < 20 and 5*x + 7*y == 1:
+        return True
+    else:
+        return False
+
+
+def question_four():
+    for i in range(-20, 21):
+        for j in range(-20, 21):
+            if p1(i, j):
+                print(i, j)
+
+
+def p2(x,y):
+    if 2*x == y or 3*x == y:
+        return True
+    else:
+        return False
+
+
+def question_five():
+    facs_of_twelve = [1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, 72]
+    for i in facs_of_twelve:
+        for j in facs_of_twelve:
+            if p2(i, j):
+                print(i, j)
+
+
+def question_seventeen():
+    for i in range(0,140):
+        if (i**2) % 140 == 29:
+            print(i)
+
+
+question_seventeen()
