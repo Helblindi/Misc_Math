@@ -1,8 +1,8 @@
-from deck_of_cards import *
+import numpy as np
 
-deck = Deck()
-deck.shuffle_deck()
+def f(x):
+    return x**2
 
-hand = deck.draw_hand(5)
-for card in hand:
-    print(card)
+
+x_vals = np.linspace(0, 10, 11)
+print(f(x_vals))

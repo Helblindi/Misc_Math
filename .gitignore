@@ -1,0 +1,12 @@
+# command to remove files that are already tracked
+# git rm --cached "filename"
+
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/dictionaries/madis.xml
+**__pychache__/
+
+# No need to upload my test environment python file
+Combinatorics/test.py
